@@ -21,6 +21,10 @@
 .ryukin{
 	padding:0 30px 0 0;
 }
+.ryukin1{
+	color: red;
+	padding:0 30px 0 0;
+}
 .fantail{
 	padding:0 30px 0 0;
 }
@@ -67,5 +71,16 @@
 	width:600px;
 }
 .divcomet{
+	padding:0 0 30px 0;
+}
+.title-ryukin{
+	font-size: 50px;
+	margin:50px 0 0 50px;
+}
+.ryukin-photo{
+	width: 400px;
+	margin:50px 0 50px 0;
+}
+.history-ryukin{
 	padding:0 0 30px 0;
 }
